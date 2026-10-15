@@ -3,4 +3,8 @@ This is an open science escape room implemented in Shiny / shinylive.
 
 Please see the disclaimer.
 
-I relied on claude.ai to help me build this.
+I relied on claude.ai to help me build this. 
+
+## Revision 2026
+
+Updated with 
